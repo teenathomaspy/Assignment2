@@ -1,0 +1,10 @@
+.carouselsOuter{
+    margin: 2rem auto;
+    width: 70%;
+    position: relative;
+}
+
+.carimg{
+    border-radius: 10px;
+ 
+}
